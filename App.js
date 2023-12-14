@@ -1,9 +1,9 @@
 import "./App.css";
 import Navbar from "./compnents/Navbar";
-
+aaa
 import Home from "./pages/Home.js";
 import Menu from "./pages/Menu";
-import About from ".//About";
+import About from "./pages/About";
 import Contact from "./pages/Contact"
 function App() {
   return (
